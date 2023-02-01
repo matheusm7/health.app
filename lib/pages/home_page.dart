@@ -239,7 +239,7 @@ class _HomePageState extends State<HomePage> {
                               icon: Icons.favorite,
                               exerciseName: 'Saúde',
                               numberOfExercises: 16,
-                              color: Colors.orange,
+                              color: Color.fromARGB(255, 194, 152, 88),
                             ),
                             ExerciseTile(
                               icon: IconData(0xf706, fontFamily: 'MaterialIcons'),
